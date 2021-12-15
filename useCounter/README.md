@@ -7,5 +7,5 @@ Usage
 ```
 
 ```
-useCounter() // Receive a default value
+    useCounter() // Receive a default value
 ```
